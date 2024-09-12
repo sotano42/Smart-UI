@@ -28,7 +28,7 @@ I appreciate if you follow my social media:
 # Bug Reports & Feature Requests
 If you believe you have found a bug, help me identify it by filling the bug report here. [Bug Report](https://github.com/sotano42/Smart-UI/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=)
 
-Buf if you have a greate idea, and do you want me to evaluate its feasibility, then file a [Feature Request](https://github.com/sotano42/Smart-UI/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=)
+Buf if you have a greate idea, and you want me to evaluate its feasibility, then file a [Feature Request](https://github.com/sotano42/Smart-UI/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=)
 
 # Make sure it's really a bug
 Before you file a bug, make sure it's one. Sometimes they are just mistakes, or misunderstood features. Please double-check the documentation and the available features to confirm it is one. 
